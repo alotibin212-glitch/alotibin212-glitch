@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- الهيدر الرئيسي مخصص باسمك وبألوان المجرة المتناسقة -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b892f2,50:f27ea6,100:6ee7f2&height=220&section=header&text=Hey!%20I%20am%20Noura%20Al-Qathami&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Systems%20%26%20Full-Stack%20%7C%20Computer%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b892f2,50:f27ea6,100:6ee7f2&height=220&section=header&text=Hey!%20I%20am%20Noura%20Al-Qathami&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Systems%20and%20Full-Stack%20%7C%20Computer%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- تأثير الكتابة التلقائية للترحيب -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+robotic+universe!+🤖✨;Full-Systems+%2B+Full-Stack+Engineer;Always+Building,+Always+Learning..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+robotic+universe!+%F0%9F%A4%96%E2%9C%A8;Full-Systems+%2B+Full-Stack+Engineer;Always+Building%2C+Always+Learning..." alt="Typing SVG" />
 
 <br/>
 
