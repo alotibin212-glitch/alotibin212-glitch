@@ -1,7 +1,5 @@
 
 
-[![Google Drive](https://img.shields.io/badge/Project%20Code-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NaBb0T7_9cK0G5sx8tbg1SkafbAz8Bdl/view?usp=drivesdk)
-
 
 <div align="center">
 
@@ -24,10 +22,9 @@
 
 Hi! I'm Eng. Noura Al-Qathami, a Full-Systems & Full-Stack Computer Engineer driven by the convergence of hardware intelligence and software architecture. I bridge the gap between low-level hardware constraints and high-level artificial intelligence to solve real-world problems.
 
-- 🤖 Robotics & Control: Designing smart, autonomous behavior, control loops, and embedded system firmware.
-- 🧠 AI & Vision: Specializing in real-time object detection pipelines and intelligent computer vision.
-- ⚙️ Full-Stack & Databases: Building robust software architectures, backend services, and scalable data models.
-
+- 🤖 Mind Behind the Machines: Designing smart, autonomous behavior, control loops, and embedded system firmware.
+- 🧠 Vision & Intelligence: Specializing in real-time object detection pipelines and intelligent computer vision.
+- ⚙️ Architecture in Motion: Building robust software architectures, backend services, and scalable data models.
 ---
 
 ### 🌐 Connect With Me
