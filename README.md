@@ -1,37 +1,18 @@
-<div class="skill-row">
-        <div class="skill-icon c3">SY</div>
-        <div class="skill-text"><b>Systems &amp; Infrastructure:</b> Comfortable across databases, networking, and deployment — thinking in full systems, not just screens.</div>
-      </div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7f2,50:b892f2,100:f27ea6&height=200&section=header&text=Noura%20Al-Qathami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Full-System%20Computer%20Engineer&descAlignY=58&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Full-Stack+%2B+Full-System+Engineer;Building+systems+end+to+end..." alt="Typing SVG" /><br/>
 
-      <div class="terminal">
-        <div class="term-bar"><span></span><span></span><span></span></div>
-        <div class="term-body">
-          <span class="k">const</span> engineer = {<br>
-          &nbsp;&nbsp;name: <span class="s">"Noura Al-Qathami"</span>,<br>
-          &nbsp;&nbsp;role: <span class="s">"Full-Stack / Full-System Engineer"</span>,<br>
-          &nbsp;&nbsp;status: <span class="c">"welcoming you"</span><span class="cursor"></span><br>
-          };
-        </div>
-      </div>
-    </div>
-  </div>
 
-  <div class="footer-note">DESIGNED FOR NOURA · ENGINEERING PORTFOLIO</div>
 
 </div>
-
-<script>
-  const lines = [
-    "function buildSystem(idea) {","  const arch = design(idea);","  return deploy(arch);","}",
-    "class API extends Server {","  handle(req, res) { ... }","}",
-    "SELECT * FROM projects","WHERE status = 'shipped';",
-    "git commit -m 'ship it'","npm run build","docker compose up -d",
-    "const db = connect(config);","export default App;",
-    "if (bug) { fix(bug); test(); }","async function sync() { await queue.flush(); }"
-  ];
-  let out = [];
-  for(let i=0;i<26;i++){ out.push(lines[Math.floor(Math.random()*lines.length)]); }
-  document.getElementById('codeVeil').textContent = out.join("\n");
-</script>
-</body>
-</html>
+👋 About Me
+Hi! I’m Noura Al-Qathami, a Full-Stack & Full-System Computer Engineer who enjoys working across the entire stack — from low-level architecture to polished user interfaces.
+ • 🎨 Frontend Development: Building responsive, accessible interfaces with modern frameworks and clean UI systems.
+ • ⚙️ Backend & APIs: Designing scalable services, REST/GraphQL APIs, and reliable server-side logic.
+ • 🧩 Systems & Infrastructure: Comfortable across databases, networking, and deployment — thinking in full systems, not just screens.
+<br/>
+const engineer = {
+  name: "Noura Al-Qathami",
+  role: "Full-Stack / Full-System Engineer",
+  status: "welcoming you 👋"
+};
+🛠️ Tech Stack
+<div align="center">
