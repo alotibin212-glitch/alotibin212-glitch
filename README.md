@@ -1,28 +1,37 @@
-# Hi there, I'm Eng. Noura Al-Qathami! 💻✨
+<div class="skill-row">
+        <div class="skill-icon c3">SY</div>
+        <div class="skill-text"><b>Systems &amp; Infrastructure:</b> Comfortable across databases, networking, and deployment — thinking in full systems, not just screens.</div>
+      </div>
 
-I am a **Computer Engineering Student** and a **Full-Systems & Full-Stack Builder**. I don't just write software; I design and integrate the entire technological ecosystem—from low-level hardware circuits to high-level cloud architectures.
+      <div class="terminal">
+        <div class="term-bar"><span></span><span></span><span></span></div>
+        <div class="term-body">
+          <span class="k">const</span> engineer = {<br>
+          &nbsp;&nbsp;name: <span class="s">"Noura Al-Qathami"</span>,<br>
+          &nbsp;&nbsp;role: <span class="s">"Full-Stack / Full-System Engineer"</span>,<br>
+          &nbsp;&nbsp;status: <span class="c">"welcoming you"</span><span class="cursor"></span><br>
+          };
+        </div>
+      </div>
+    </div>
+  </div>
 
-🚀 *Always learning, always building, and expanding my expertise across all layers of technology.*
+  <div class="footer-note">DESIGNED FOR NOURA · ENGINEERING PORTFOLIO</div>
 
----
+</div>
 
-### ⚙️ Areas of Expertise
-
-* **Embedded Systems & Microcontrollers** – Bringing hardware to life with low-level control and precise firmware simulation.
-* **Robotics & Control Systems** – Designing autonomous logic, stability analysis, and smart automation behavior.
-* **AI Vision & Machine Learning** – Implementing real-time object detection and computer vision pipelines.
-* **Full-Stack Development** – Crafting complete, scalable software and database architectures.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages & Logic:** Python, C++, MATLAB, Verilog, SQL
-* **Robotics & Simulation:** Arduino, Proteus, Tinkercad, Simulink
-* **AI & Computer Vision:** OpenCV, TensorFlow, Keras
-* **Systems & Tools:** Linux, Git & GitHub
-
----
-
-*“Bridging the gap between hardware constraints and artificial intelligence to build the future.”*
-
+<script>
+  const lines = [
+    "function buildSystem(idea) {","  const arch = design(idea);","  return deploy(arch);","}",
+    "class API extends Server {","  handle(req, res) { ... }","}",
+    "SELECT * FROM projects","WHERE status = 'shipped';",
+    "git commit -m 'ship it'","npm run build","docker compose up -d",
+    "const db = connect(config);","export default App;",
+    "if (bug) { fix(bug); test(); }","async function sync() { await queue.flush(); }"
+  ];
+  let out = [];
+  for(let i=0;i<26;i++){ out.push(lines[Math.floor(Math.random()*lines.length)]); }
+  document.getElementById('codeVeil').textContent = out.join("\n");
+</script>
+</body>
+</html>
