@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- الهيدر الرئيسي مخصص باسمك وبألوان متناسقة -->
+<!-- الهيدر الرئيسي مخصص باسمك وبألوان المجرة المتناسقة -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b892f2,50:f27ea6,100:6ee7f2&height=220&section=header&text=Hey!%20I%20am%20Noura%20Al-Qathami&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Systems%20%26%20Full-Stack%20%7C%20Computer%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
-<!-- تأثير الكتابة التلقائية -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Full-Systems+%2B+Full-Stack+Engineer;Always+Building,+Always+Learning..." alt="Typing SVG" />
+<!-- تأثير الكتابة التلقائية للترحيب -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+robotic+universe!+🤖✨;Full-Systems+%2B+Full-Stack+Engineer;Always+Building,+Always+Learning..." alt="Typing SVG" />
 
 <br/>
 
@@ -20,13 +20,11 @@
 
 ### 👋 About Me
 
-Hi! I'm Eng. Noura Al-Qathami, a Full-Systems & Full-Stack Computer Engineer driven by the convergence of hardware intelligence and software architecture.
+Hi! I'm Eng. Noura Al-Qathami, a Full-Systems & Full-Stack Computer Engineer driven by the convergence of hardware intelligence and software architecture. I bridge the gap between low-level hardware constraints and high-level artificial intelligence to solve real-world problems.
 
-- 🤖 Robotics & Control: Expert in bio-inspired kinematics, embedded firmware, and smart site automation.
+- 🤖 Robotics & Control: Designing smart, autonomous behavior, control loops, and embedded system firmware.
 - 🧠 AI & Vision: Specializing in real-time object detection pipelines and intelligent computer vision.
-- 🔒 Systems & Networking: Focused on secure network architectures and low-level kernel simulation.
-
-I bridge the gap between low-level hardware constraints and high-level artificial intelligence to solve real-world problems.
+- ⚙️ Full-Stack & Databases: Building robust software architectures, backend services, and scalable data models.
 
 ---
 
@@ -49,13 +47,11 @@ I bridge the gap between low-level hardware constraints and high-level artificia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=flat-square&logo=mathworks&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=microchip&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 #### 🤖 Robotics, HW & Simulation
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-00599C?style=flat-square&logo=autodesk&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 
 #### 👁️ AI & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
