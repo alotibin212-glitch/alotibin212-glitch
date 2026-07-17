@@ -1,10 +1,28 @@
-##👋 Hi, I’m Noura Al-Otaibi
-Computer Engineering Student
+# Hi there, I'm Eng. Noura Al-Qathami! 💻✨
 
+I am a **Computer Engineering Student** and a **Full-Systems & Full-Stack Builder**. I don't just write software; I design and integrate the entire technological ecosystem—from low-level hardware circuits to high-level cloud architectures.
 
-##A bit about me
-I’m currently studying Computer Engineering, with a focus on web development and C++. I enjoy turning ideas into working projects and picking up new tools along the way.
- • 🎓 Studying Computer Engineering
- • 💻 Working with C++ and Web Development (HTML/CSS/JS)
- • 🌱 Always learning something new
- • 📌 You can find my work on GitHub
+🚀 *Always learning, always building, and expanding my expertise across all layers of technology.*
+
+---
+
+### ⚙️ Areas of Expertise
+
+* **Embedded Systems & Microcontrollers** – Bringing hardware to life with low-level control and precise firmware simulation.
+* **Robotics & Control Systems** – Designing autonomous logic, stability analysis, and smart automation behavior.
+* **AI Vision & Machine Learning** – Implementing real-time object detection and computer vision pipelines.
+* **Full-Stack Development** – Crafting complete, scalable software and database architectures.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages & Logic:** Python, C++, MATLAB, Verilog, SQL
+* **Robotics & Simulation:** Arduino, Proteus, Tinkercad, Simulink
+* **AI & Computer Vision:** OpenCV, TensorFlow, Keras
+* **Systems & Tools:** Linux, Git & GitHub
+
+---
+
+*“Bridging the gap between hardware constraints and artificial intelligence to build the future.”*
+
