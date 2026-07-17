@@ -3,20 +3,16 @@
 
 
 <div align="center">
-
 <!-- تأثير الكتابة التلقائية للترحيب -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+robotic+universe!+%F0%9F%A4%96%E2%9C%A8;Full-Systems+%2B+Full-Stack+Engineer;Always+Building%2C+Always+Learning..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=55CED9&center=true&vCenter=true&width=600&lines=Welcome+to+my+robotic+universe!+%F0%9F%A4%96%E2%9C%A8;Full-Systems+%2B+Full-Stack+Engineer;Always+Building%2C+Always+Learning..." alt="Typing SVG" />
 
 <br/>
 
 <!-- أزرار التخصص والمهارات الشخصية -->
-![Full-Systems](https://img.shields.io/badge/Full--Systems-b892f2?style=for-the-badge&logoColor=black)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-6ee7f2?style=for-the-badge&logoColor=black)
-![Computer Engineer](https://img.shields.io/badge/Computer%20Engineer-f27ea6?style=for-the-badge&logoColor=black)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-1a1b26?style=for-the-badge&color=1a1b26)
-
-</div>
-
+![Full-Systems](https://img.shields.io/badge/Full--Systems-9f79d9?style=for-the-badge&logoColor=black)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-55ced9?style=for-the-badge&logoColor=black)
+![Computer Engineer](https://img.shields.io/badge/Computer%20Engineer-d9658d?style=for-the-badge&logoColor=black)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-12131c?style=for-the-badge&color=12131c)
 ---
 
 ### 👋 About Me
