@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7f2,50:b892f2,100:f27ea6&height=200&section=header&text=Eng.%20Noura%20Al-Qathami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Systems%20and%20Full-Stack%20Computer%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<!-- الهيدر الرئيسي مخصص باسمك وبألوان متناسقة -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b892f2,50:f27ea6,100:6ee7f2&height=220&section=header&text=Hey!%20I%20am%20Noura%20Al-Qathami&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Systems%20%26%20Full-Stack%20%7C%20Computer%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+universe!+🤖✨;Full-Systems+%2B+Full-Stack+Engineer;Building+systems+end+to+end..." alt="Typing SVG" />
+<!-- تأثير الكتابة التلقائية -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6EE7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Full-Systems+%2B+Full-Stack+Engineer;Always+Building,+Always+Learning..." alt="Typing SVG" />
 
 <br/>
 
+<!-- أزرار التخصص والمهارات الشخصية -->
 ![Full-Systems](https://img.shields.io/badge/Full--Systems-b892f2?style=for-the-badge&logoColor=black)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-6ee7f2?style=for-the-badge&logoColor=black)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-f27ea6?style=for-the-badge&logoColor=black)
-![Robotics & AI](https://img.shields.io/badge/Robotics%20and%20AI-1a1b26?style=for-the-badge&color=1a1b26)
+![Computer Engineer](https://img.shields.io/badge/Computer%20Engineer-f27ea6?style=for-the-badge&logoColor=black)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-1a1b26?style=for-the-badge&color=1a1b26)
 
 </div>
 
@@ -17,27 +20,51 @@
 
 ### 👋 About Me
 
-Hi! I'm **Eng. Noura Al-Qathami**, a Computer Engineering student driven by the convergence of hardware intelligence and software architecture. I build complete ecosystems—from low-level circuits to intelligent applications.
+Hi! I'm Eng. Noura Al-Qathami, a Full-Systems & Full-Stack Computer Engineer driven by the convergence of hardware intelligence and software architecture.
 
-- 🤖r=ffffff&animation=fadeIn&fontAliDesigning smart, autonomous behavior, stability analysis, and kinematics.
-- 👁️ing&color=0:6ee7f2,50:b892f2,100:f2Implementing real-time computer vision pipelines on microcontrollers.
-- ⚙️e=waving&color=0:6ee7f2,50:b8Building robust software architectures, backend services, and scalable data models.
+- 🤖 Robotics & Control: Expert in bio-inspired kinematics, embedded firmware, and smart site automation.
+- 🧠 AI & Vision: Specializing in real-time object detection pipelines and intelligent computer vision.
+- 🔒 Systems & Networking: Focused on secure network architectures and low-level kernel simulation.
 
-<br/>
+I bridge the gap between low-level hardware constraints and high-level artificial intelligence to solve real-world problems.
 
-```javascript
-const engineer = {
-  name: "Noura Al-Qathami",
-  role: "Full-Systems & Full-Stack Engineer",
-  specialty: ["Robotics", "Embedded Systems", "AI Vision"],
-  status: "Welcoming you to my robotic universe! 🤖✨"
-};
-🌐 Connect With Me
+---
+
+### 🌐 Connect With Me
+
 <div align="center">
-LinkedIn 
-X / Twitter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/norah-al-otaibi-b282253a7)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/4Noralq)
+
 </div>
-🛠️ Tech Stack & Tools
-Languages: Python, C++, MATLAB, Verilog, SQL
-Simulation & HW: Arduino, Proteus, Tinkercad, Simulink
-AI & Vision: OpenCV, TensorFlow, Keras
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### 📝 Languages & Logic
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=flat-square&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=microchip&logoColor=white)
+
+#### 🤖 Robotics, HW & Simulation
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-00599C?style=flat-square&logo=autodesk&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+#### 👁️ AI & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+#### ⚙️ Networking & Tools
+![Cisco](https://img.shields.io/badge/Cisco-1EA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
