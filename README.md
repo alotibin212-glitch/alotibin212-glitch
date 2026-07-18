@@ -25,7 +25,8 @@ Hi! I'm Eng. Noura Al-Qathami, a Full-Systems & Full-Stack Computer Engineer dri
 - ⚙️ Architecture in Motion: Building robust software architectures, backend services, and scalable data models.
 ---
 
-### 🌐 Connect With Me
+### 🌐 Social Media
+
 
 <div align="center">
 
